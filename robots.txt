@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Disallow: /images/
+Disallow: /out/
+
+Sitemap: http://call-of-duty-infinite-warfare-vorbestellen.de/robots.txt
